@@ -41,3 +41,6 @@ header{
     margin: 1em auto auto auto;
 }
 
+#img-mapa, img{
+    width: 100%;    
+}
