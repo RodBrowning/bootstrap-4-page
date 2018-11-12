@@ -2,7 +2,7 @@ header{
     z-index: 1;
 }
 #navbar{
-	background-color: darkorchid !important;	
+	background-color:  rgb(69, 0, 97) !important;		
 }
 .jumbotron{	
     position: relative;
@@ -21,7 +21,7 @@ header{
  .cover{
  	padding: 4rem 2rem;
  	height: 300px;
-	background-image: linear-gradient(darkorchid, transparent);
+	background-image: linear-gradient(rgb(69, 0, 97), transparent);
  }
 
  #cards i{
@@ -39,4 +39,8 @@ header{
     width: 150px;
     height: 150px;
     margin: 1em auto auto auto;
+}
+
+#testimonials{
+	background-color: hsl(257, 100%, 19%);
 }
