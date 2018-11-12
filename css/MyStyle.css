@@ -1,8 +1,14 @@
+header{	
+    z-index: 1;
+}
 #navbar{
-	background-color: darkorchid !important;
+	background-color: darkorchid !important;	
 }
 .jumbotron{	
-	padding: 0;
+    position: relative;
+    top: -1px;
+    z-index: -1;
+    padding: 0;
     margin-bottom: 0;
 	background-repeat: no-repeat;
     background-position: 30% 70%;
