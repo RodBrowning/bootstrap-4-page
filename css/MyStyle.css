@@ -1,8 +1,8 @@
 header{	
     z-index: 1;
 }
-#navbar{
-	background-color:  rgb(69, 0, 97) !important;		
+.azul-fundo{
+	background-color:  rgb(69, 0, 97) !important;
 }
 .jumbotron{	
     position: relative;
@@ -41,6 +41,3 @@ header{
     margin: 1em auto auto auto;
 }
 
-#testimonials{
-	background-color: hsl(257, 100%, 19%);
-}
